@@ -1,0 +1,85 @@
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1em;
+    margin: 10px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #c63928;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #ed4c4f;
+    cursor: pointer;
+}
+
+.btn-1 {
+    background-color: #fdd835;
+    color: #2a61fb;
+    border: 2px solid #2a61fb;
+    padding: 10px 17px;
+    font-family: 'Gugi', sans-serif;
+}
+
+.btn-1:hover {
+    color: #fdd835;
+    background-color: #2a61fb;
+    cursor: pointer;
+}
+
+.btn-2 {
+    background-image: linear-gradient(to right, #59d0d9, #7de4a5);
+    border-radius: 25px;
+    padding: 10px 30px;
+    color: white;
+    border: none;
+}
+
+.btn-2:hover {
+    cursor: pointer;
+}
+
+.btn-3 {
+    color: #6749ea;
+    border: 3px solid #6749ea;
+    background-color: white;
+    padding: 10px 17px;
+    border-radius: 10px;
+}
+
+.btn-3:hover {
+    color: white;
+    background-color: #6749ea;
+    cursor: pointer;
+}
+
+.btn-4 {
+    background-image: linear-gradient(to right, #f8bb32, #fac633);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 6px;
+    border: 1px solid #f6a832;
+    text-shadow: 1px 1px 2px grey;
+}
+
+.btn-4:hover {
+    background-color: #f6a832;
+    cursor: pointer;
+}
+
+.btn-5 {
+    background-color: white;
+    color: #37a1f3;
+    border: 2px solid #37a1f3;
+    border-radius: 100px;
+    padding: 10px 12px;
+}
+
+.btn-5:hover {
+    color: white;
+    background-color: #37a1f3;
+    cursor: pointer;
+}
